@@ -1,4 +1,4 @@
-include <unistd.h>
+#include "unistd.h" // Librería que contiene las funciones write y read //
 
 int main (int argc, char **argv) // Recibe dos parametros, el número de argumentos, y un array de argumentos //
 {
@@ -11,7 +11,7 @@ int main (int argc, char **argv) // Recibe dos parametros, el número de argumen
         i++;
         while ((argv[1][i] != 32 && argv[1][i] != 9) && argv[1][i]) // Mientras el caracter actual no sea un espacio ni un tabulador y el string existe //
         {
-            write (1, &argv[i],1); // Escribe en la salida estándar, el caracter en la posición actual que ocupa un byte //
+            write (1, &argv[1][i],1); // Escribe en la salida estándar, el caracter en la posición actual que ocupa un byte //
             i++;
         }
         write (1, "\n", 1); // Escribe un salto de línea en la salida estándar //
