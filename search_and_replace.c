@@ -1,4 +1,4 @@
-/* Escribe un programa que tome 3 argumentos.
+/* Escribe UN PROGRAMA que tome 3 argumentos.
 El primero, un string en el que se reemplace una letra (Segundo argumento), por otra letra (Tercer argumento)
 Si el número de argumentos no es 3, muestra una nueva línea.
 Si el segundo argumento (la letra a cambiar) no está contenido en el primero (El string), el programa
