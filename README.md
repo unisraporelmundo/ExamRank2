@@ -16,7 +16,7 @@ Puede ser cualquiera de las siguientes 12 Funciones/Programas:
 
 <table><tr><td>
   
-1. **[first_word](https://github.com/pasqualerossi/42-School-Exam-Rank-02/blob/main/Level%201/first_word/first_word.c)**
+1. **[first_word](/first_word)**
    - **Descripción:** Imprime la primera palabra de una cadena de texto. Considera como delimitador cualquier espacio en blanco, salto de línea o tabulación.
 
 2. **[fizzbuzz](https://github.com/pasqualerossi/42-School-Exam-Rank-02/blob/main/Level%201/fizzbuzz/fizzbuzz.c)**
