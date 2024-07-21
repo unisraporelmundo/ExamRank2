@@ -1,4 +1,4 @@
-/* Escribe un programa que tome un string y lo muestre, reemplazando cada una de sus letras por una letra
+/* Escribe UN PROGRAMA que tome un string y lo muestre, reemplazando cada una de sus letras por una letra
 13 espacios mas adelante en orden alfabético. 'z' se convierte en 'm'.
 La salida irá seguida de una nueva línea. 
 Si el número de argumentos no es 1, el programa muestra una nueva línea.*/
