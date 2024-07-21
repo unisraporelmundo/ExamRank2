@@ -1,4 +1,4 @@
-/*Escribe un programa que imprima los números del 1 al 100 cada uno separado por una nueva línea. 
+/*Escribe UN PROGRAMA que imprima los números del 1 al 100 cada uno separado por una nueva línea. 
 Si el número es múltiplo de 3, en su lugar imprime 'fizz'.
 Si el número es múltiplo de 5, en su lugar imprime 'buzz'.
 Si el número es múltiplo de 3 y de 5, en su lugar imprime 'fizzbuzz'*/

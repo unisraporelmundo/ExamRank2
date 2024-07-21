@@ -1,4 +1,4 @@
-/*Escribe un programa que tome un string y muestre su primera palabra.*/
+/*Escribe UN PROGRAMA que tome un string y muestre su primera palabra.*/
 #include "unistd.h" // Librería que contiene las funciones write y read //
 
 int main (int argc, char **argv) // Recibe dos parametros, el número de argumentos, y un array de argumentos //

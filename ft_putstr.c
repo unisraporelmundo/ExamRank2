@@ -1,4 +1,4 @@
-/*Escribe una función que muestre una cadena en la salida estándar.*/
+/*Escribe una FUNCIÓN que muestre una cadena en la salida estándar.*/
 
 #include "unistd.h" // Librería que contiene la función write //
 

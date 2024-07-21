@@ -1,4 +1,4 @@
-/*Reproduce el comportamiento de la función strcpy*/
+/*Reproduce el comportamiento de la FUNCIÓN strcpy*/
 
 char    *ft_strcpy (char *s1, char *s2)
 {
