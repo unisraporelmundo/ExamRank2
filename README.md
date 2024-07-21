@@ -1,4 +1,6 @@
-# ExamRank2
+<h1 align="center">
+    <img src="https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/examrank02.gif" alt="Banner de perfil"/>
+</h1>
 
 ---
 
