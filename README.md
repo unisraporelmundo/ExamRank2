@@ -57,3 +57,64 @@ Puede ser cualquiera de las siguientes 12 Funciones/Programas:
 </td></tr></table>
 
 ---
+
+# Configuración del Examen
+
+## Detalles de Inicio de Sesión
+
+1️⃣ **Inicio de Sesión con los Siguientes Datos**:
+
+- **login**: exam
+- **password**: exam
+
+2️⃣ **En ITerm**:
+
+- Escribe `examshell` en la terminal
+
+3️⃣ **Tu Cuenta en 42 Intra**:
+
+- **login**: tu nombre de usuario en 42 intra (por ejemplo, prossi)
+- **password**: tu contraseña
+
+4️⃣ **Tu Foto en 42 Intra**:
+
+- Permite la verificación de la foto
+
+5️⃣ **Acceso a Rendu**:
+
+- Escribe `y` o `yes`
+
+6️⃣ **En el Shell del Examen, Solo Tienes los Siguientes 3 Comandos**:
+
+- **status**: Verifica el tiempo y otras cosas
+- **grademe**: Revisa el ejercicio enviado (moulinet)
+- **finish**: Cierra el examshell y termina el examen
+
+7️⃣ **Abre una Nueva Terminal iTerm o VSCode**:
+
+- Puedes encontrar el tema del examen en el directorio `subject`
+- Luego verás el directorio `Rendu`. Este es tu repositorio.
+- Debes crear una carpeta con el nombre del proyecto y empezar a trabajar en esa carpeta.
+
+## Detalles de la Entrega
+
+Cuando estés listo para entregar tu función/programa, ve a `Rendu` y sube la carpeta que creaste siguiendo estos pasos:
+
+1️⃣ **Agregar Archivos a Git**:
+
+- `git add <nombre de la carpeta/archivos en la carpeta>`
+
+2️⃣ **Verificar Estado**:
+
+- `git status`
+
+3️⃣ **Realizar un Commit**:
+
+- `git commit -m "cualquier mensaje de commit que desees"`
+
+4️⃣ **Hacer un Push**:
+
+- `git push`
+
+5️⃣ **Después de Hacer el Push, Escribe `grademe` en el examshell para que tu proyecto sea evaluado.**
+```
