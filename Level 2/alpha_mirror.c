@@ -4,7 +4,7 @@ Si el número de argumentos no es 1, muestra solo una nueva línea*/
 
 #include <unistd.h>
 
-int main(int argc, char **argv) 
+int main(int argc, char **argv)  
 {
     int i; 
 

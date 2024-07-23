@@ -22,7 +22,7 @@ int main (int argc, char **argv)
             write(1, &argv[1][i], 1); // Se imprime el caracter
             i++; // Se incrementa i
         }
-    }
+    }   
     write(1, "\n", 1); // Se imprime una nueva línea
     return (0); // Se retorna 0
 }
